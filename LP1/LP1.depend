@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1526503886 source:c:\users\fabio\desktop\prova 2\lp1\main.cpp
+	<iostream>
+	<vector>
+	"midia.hpp"
+	"midia.cpp"
+	"livro.hpp"
+	"livro.cpp"
+	"cd.hpp"
+	"cd.cpp"
+	"dvd.hpp"
+	"dvd.cpp"
+	"deposito.hpp"
+	"deposito.cpp"
+
+1526492457 c:\users\fabio\desktop\prova 2\lp1\midia.hpp
+
+1526492457 c:\users\fabio\desktop\prova 2\lp1\midia.cpp
+	<iostream>
+	<string>
+	"midia.hpp"
+
+1526494743 c:\users\fabio\desktop\prova 2\lp1\livro.hpp
+
+1526494743 c:\users\fabio\desktop\prova 2\lp1\livro.cpp
+	<iostream>
+	<string>
+	"livro.hpp"
+
+1526494743 c:\users\fabio\desktop\prova 2\lp1\cd.hpp
+
+1526494762 c:\users\fabio\desktop\prova 2\lp1\cd.cpp
+	<iostream>
+	<string>
+	"cd.hpp"
+
+1526494807 c:\users\fabio\desktop\prova 2\lp1\dvd.hpp
+
+1526494743 c:\users\fabio\desktop\prova 2\lp1\dvd.cpp
+	<iostream>
+	<string>
+	"dvd.hpp"
+
+1526493158 c:\users\fabio\desktop\prova 2\lp1\deposito.hpp
+
+1526493158 c:\users\fabio\desktop\prova 2\lp1\deposito.cpp
+	<iostream>
+	<string>
+	"deposito.hpp"
+
+1526528933 source:c:\users\fabio\desktop\classe heranca\lp1\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"midia.hpp"
+	"midia.cpp"
+	"livro.hpp"
+	"livro.cpp"
+	"cd.hpp"
+	"cd.cpp"
+	"dvd.hpp"
+	"dvd.cpp"
+	"deposito.hpp"
+	"deposito.cpp"
+
+1526492457 c:\users\fabio\desktop\classe heranca\lp1\midia.hpp
+
+1526492457 c:\users\fabio\desktop\classe heranca\lp1\midia.cpp
+	<iostream>
+	<string>
+	"midia.hpp"
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\livro.hpp
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\livro.cpp
+	<iostream>
+	<string>
+	"livro.hpp"
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\cd.hpp
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\cd.cpp
+	<iostream>
+	<string>
+	"cd.hpp"
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\dvd.hpp
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\dvd.cpp
+	<iostream>
+	<string>
+	"dvd.hpp"
+
+1526526206 c:\users\fabio\desktop\classe heranca\lp1\deposito.hpp
+
+1526526205 c:\users\fabio\desktop\classe heranca\lp1\deposito.cpp
+	<iostream>
+	<string>
+	"deposito.hpp"
+
